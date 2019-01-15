@@ -1,2 +1,2 @@
-# PhdThesis
-Programming tools used during the Phd Thesis
+# Phd. Thesis
+Programming tools used during my Phd Thesis
