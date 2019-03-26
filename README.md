@@ -1,7 +1,7 @@
 # PhD Thesis
 This repository contains all the programming tools used during my PhD Thesis.
 
-Current status (25-01-2019): Mathematica file FunExp.nb updated. 
+Current status (26-03-2019): Mathematica file FunExp.nb updated. 
 
 # Mathematica file FunExp.nb
 
@@ -9,3 +9,10 @@ Current status (25-01-2019): Mathematica file FunExp.nb updated.
 
   - DoFun installed and loaded. Related functions used are described.
   - FormTracer installed and loaded. Related definition of tensors and groups described and implemented.
+  
+- Template for DSE equations:
+ 
+  - Definition of fields and action.
+  - Definition of vertices and projections.
+  - Derivation of DSE in a symbolic and algebraic form.
+  - Exportation of the DSE equation to be used in the C++ codes. 
