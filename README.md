@@ -10,9 +10,17 @@ Current status (26-03-2019): Mathematica file FunExp.nb updated.
   - DoFun installed and loaded. Related functions used are described.
   - FormTracer installed and loaded. Related definition of tensors and groups described and implemented.
   
-- Template for DSE equations:
+- Template for the Dyson-Schwinger equations:
  
   - Definition of fields and action.
   - Definition of vertices and projections.
-  - Derivation of DSE in a symbolic and algebraic form.
+  - Derivation of the DSEs in a symbolic and algebraic form.
   - Exportation of the DSE equation to be used in the C++ codes. 
+  
+- Template for the Renormalisation Group equations:
+ 
+  - Definition of fields and action.
+  - Definition of vertices, regulators and projections.
+  - Derivation of the RGEs in a symbolic and algebraic form.
+  - Exportation performed as in the DSE section.
+  
