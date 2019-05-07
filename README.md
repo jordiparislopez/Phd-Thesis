@@ -2,7 +2,7 @@
 
 This repository contains all the programming tools used during my PhD Thesis. The files include:
 - Mathematica file to generate the functional equations.
-- Folder with C++ code to solve Dyson-Schwinger equations.
+- Folder with C++ code to solve Dyson-Schwinger and Bethe-Salpeter equations.
 - Folder with C++ code to solve flow equations.
 - Folder with numerical routines required during the run.
 
