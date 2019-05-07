@@ -1,9 +1,13 @@
 # PhD Thesis
-This repository contains all the programming tools used during my PhD Thesis.
 
-Current status (26-03-2019): Mathematica file FunExp.nb updated. 
+This repository contains all the programming tools used during my PhD Thesis. The files include:
+- Mathematica file to generate the functional equations.
+- Folder with C++ code to solve Dyson-Schwinger equations.
+- Folder with C++ code to solve flow equations.
+- Folder with numerical routines required during the run.
 
-# Mathematica file FunExp.nb
+
+## Mathematica file FunExp.nb
 
 - Use of external packages:
 
