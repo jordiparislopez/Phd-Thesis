@@ -6,7 +6,7 @@ This repository contains the programming tools used during my PhD Thesis. The fi
 - Folder with C++ code template to solve flow equations.
 - Folder with numerical routines required during the run.
 
-The codes used to obtain the actual results of the systems displayed in the thesis are modified versions of the available templates. In case these codes are required, please feel free to contact me.
+The codes used to obtain the actual results of the systems displayed in the thesis are modified versions of the available templates. In case these codes are required or there is any question related to the uploaded templates or files, please feel free to contact me.
 
 ## Mathematica file FunExp.nb
 
