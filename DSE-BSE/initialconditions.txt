@@ -1,0 +1,34 @@
+500  200  10  1e-8    1e+5    19   3.0    2.0    1.0   0.0   1.0   1.0  1   1e-5
+
+/*
+
+   Txt File for initial conditions
+
+
+   This file was created to change the variables to fit without any need for
+   compiling again.
+
+   The values need to be written in the first line separated by a tab.
+   The conditions used are:
+
+   - Column 1     Number of external grid points np
+   - Column 2     Number of internal Gauss-Legendre quadrature points nk
+   - Column 3     Number of internal Gauss-Chebyshev quadrature
+                  points nz (must never be larger than nk)
+   - Column 4     Value for the infrared cutoff
+   - Column 5     Value for the ultraviolet cutoff
+   - Column 6     Renormalisation scale (to be squared)
+   - Column 7     Number of colors Nc
+   - Column 8     Number of flavors Nf
+   - Column 9     Initial value for every A(p^2)
+   - Column 10    Initial value for every B(p^2)
+   - Column 11    Initial value for the renormalisation constant Z2
+   - Column 12    Initial value for the renormalisation constant Zm
+   - Column 13    Value for the bound state mass M (GeV);
+   - Column 14    Relative error precision for convergence rel_err
+
+
+   In order to add further (fewer) initial values, add (delete) more conditions
+   and modify global_variable_reading() function in simpfunctionsDSE.hpp .
+
+*/

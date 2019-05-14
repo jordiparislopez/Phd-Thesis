@@ -1,0 +1,20 @@
+22  22  70  22 22 300
+
+/*
+
+   Txt File for initial conditions for the BSE routine
+
+   Written in columns, the dimension of the BSE matrix is given by the values
+   given above, following:
+
+    Column 1     Number of points nq
+    Column 2     Number of points nz
+    Column 3     Number of points ny
+    Column 4     Number of points nQ
+    Column 5     Number of points nZ
+    Column 6     Number of points P2 to print
+
+    The initial values need to be complemented with the ones in the file
+    initialconditions.txt
+
+*/

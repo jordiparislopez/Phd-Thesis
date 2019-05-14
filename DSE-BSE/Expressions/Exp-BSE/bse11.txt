@@ -1,0 +1,1 @@
+(DT1[i + nq*j]*DT2[i + nq*j]*jac[i]*mtk*(4.*BP1[i + nq*j]*BP2[i + nq*j] - AP1[i + nq*j]*AP2[i + nq*j]*(P2 - 4.*q2[i]))*q2[i]*wl[i]*wy[k]*wz[j]*pow(Z2,2.))/(4.*k2*pow(PI,2.))

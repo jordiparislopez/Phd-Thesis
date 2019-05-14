@@ -1,0 +1,1 @@
+pow(2.*PI,-3)*4.0/3.0*(aqterm*mtk/P2[i])*(3.0*sqrtp2[i]*sqrtq2*z-2.0*P2[i]*q2*(1.0-pow(z,2))/k2)
