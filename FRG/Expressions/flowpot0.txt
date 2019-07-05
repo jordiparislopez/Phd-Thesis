@@ -1,0 +1,1 @@
+((Ds0*rdbetabs + Dp0*rdbetabp*(-1 + pow(Nf,2)) - 8*Dpsi0*Nc*p2*rdfetaf*(aq0 + rf0)*pow(Nf,2))/2.)

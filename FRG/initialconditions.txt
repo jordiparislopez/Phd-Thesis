@@ -1,0 +1,14 @@
+100  2795.75   15.0   18.9   28.5    1771092.0   950 0.1  2.0  3.0    1e-5    1e-4
+
+// Column 1     Number of points NL2
+// Column 2     Linear term potential (to be squared)
+// Column 3     Quadratic term potential
+// Column 4     Yukawa
+// Column 5     Expansion point sigma
+// Column 6     C0 Chiral symmetry breaking term
+// Column 7     UV cutoff
+// Column 8     IR cutoff
+// Column 9     Nf Number of flavors
+// Column 10    Nc Number of colors
+// Column 11    abs_err Absolute error integration
+// Column 12    rel_err Relative error integration

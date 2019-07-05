@@ -1,0 +1,1 @@
+(hq12*hq15*hq65*Nf*p2*rdfetaf*(aq0 + rf0)*pow(Dpsi0,2)*(Dp2 + Ds2 - Dp2*pow(Nf,2)) + (Dpsi2*hq46*hq48*hq28*(rdbetabs*pow(Ds0,2) + pow(Dp0,2)*(rdbetabp - rdbetabp*pow(Nf,2))))/2.)

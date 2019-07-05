@@ -1,0 +1,1 @@
+((sqrtP2*(-(hq12*hq65*rdfetaf*Rho0*sqrtp2*x[1]*pow(Dpsi0,2)*pow(hq15,2)*(Ds2 + Dp2*(-1 + pow(Nf,2)))) - Dpsi2*hq28*hq46*(aq2 + rf2)*(sqrtP2 + sqrtp2*x[1])*(rdbetabs*pow(Ds0,2) + rdbetabp*pow(Dp0,2)*(-1 + pow(Nf,2))) + hq12*hq65*Nf*p2*rdfetaf*sqrtp2*x[1]*pow(Dpsi0,2)*(Ds2 + Dp2*(-1 + pow(Nf,2)))*pow(aq0 + rf0,2)))/2.)

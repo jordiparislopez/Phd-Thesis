@@ -1,0 +1,8 @@
+950.0   1.0e-1  -1  1.0e-7  1.0e-6  1.0 1.0
+
+// Column 1: Initial value of Lambda
+// Column 2: Final value of k
+// Column 3: Initial step
+// Column 4: Absolute precission
+// Column 5: Relative precision
+// Column 6 - 7: Parameters for ODE
